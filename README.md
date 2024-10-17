@@ -10,5 +10,5 @@ Difference is, the changes from person A, and person B may be conflicting to the
 3. Change directory to the source control folder github created, and type `git status` shows whether the file is not the same in github.
 4. Use `git add (filename)` to add the files you've edited/changed on your computer in the source control folder, into the repository. P.S. Use `git add .` to add all file changes
 5. Use `git commit` to commit that the changes you've made is published into the github repository. `git commit -m 'this place adds a message for the changes you've made'`
-6. Use `git push` to push the changes you've made into the actual repository. The changes can be seen on the commits in the repository.
+6. Use `git push` to push the changes you've made into the actual repository. The changes can be seen on the '**history**' tab for a specific file.
 7. Use `git pull` pulls the current github repository into your current computer files. Whenever updates happen on the repository, you can get its latest version by pulling it in.
